@@ -65,4 +65,3 @@ Create a `.env` file in your project's root directory with the following variabl
 * **Permissions:**
    * Grant your Slack App the necessary permissions (scopes) to access user data, post messages, etc.
    * Provide access to appropriate Smartsheet sheets for your tokens.
-* **Security:** Always prioritize security! Avoid storing sensitive keys directly in your code.
