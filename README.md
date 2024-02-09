@@ -28,7 +28,7 @@ This project automates an onboarding workflow integrating Slack and Smartsheet f
 2. **dotenv:**
    * Deno doesn't have a built-in environment variable system like Node.js. You'll need to install the `dotenv` module for managing your sensitive keys:
    ```bash
-   deno install -A [https://deno.land/x/dotenv/mod.ts](https://deno.land/x/dotenv/mod.ts)
+   deno install -A https://deno.land/x/dotenv/mod.ts
    ```
 3. **Slack Workspace & App:**
    * Create a Slack workspace (if you don't have one already).
