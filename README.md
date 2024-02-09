@@ -1,6 +1,6 @@
 # Induction Automation Project (Deno)
 
-This project automates an onboarding workflow integrating Slack and Smartsheet for a seamless new employee experience.
+This project automates an onboarding workflow integrating Slack and Smartsheet for an improved new employee experience.
 
 ## Key Features
 
